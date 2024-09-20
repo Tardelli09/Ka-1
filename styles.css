@@ -1,0 +1,13 @@
+body{
+    color:white;
+    background:pink;
+}
+
+HEADER{ 
+    BORDER:SOLID 1PX RGB(255,11,182,1)
+    padding: 20px;
+    font-size: 32px
+}
+img {
+    height: 200px;
+}
